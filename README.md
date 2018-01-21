@@ -1,9 +1,8 @@
-# msm
-MAP Meta-Schema Manager
+# msm MAP Meta-Schema Manager
 
-Initial proof of concept application for booting map from abstract schema. The MSM provides a way to define new holons, holon spaces, holon relationships and holon spaces.
+Initial proof of concept application for booting MAP from abstract schema. The MSM provides a way to define new holon types, holon spaces, holon relationship types, holonic visualizers.
 
-#h1 Tech Stack
+# Tech Stack
 Spring Boot
 Persistence Tier: Neo4j
 Mid-Tier: 
