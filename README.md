@@ -1,4 +1,4 @@
-# msm MAP Meta-Schema Manager
+# msm -- MAP Meta-Schema Manager
 
 Initial proof of concept application for booting MAP from abstract schema. The MSM provides a way to define new holon types, holon spaces, holon relationship types, holonic visualizers.
 
