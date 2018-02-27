@@ -4,12 +4,13 @@ Initial proof of concept application for booting MAP from abstract schema. The M
 
 # Tech Stack
 Spring Boot
+
 Persistence Tier: Neo4j
+
 Mid-Tier: 
   * Spring MVC
   * HATEOS REST Services implemented in Java
 Presentation Tier: 
-  * Spring MVC
   * JSP
   * React JS
   * Redux
